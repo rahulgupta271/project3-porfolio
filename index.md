@@ -35,3 +35,18 @@
 <img src="images/Recommendation-systems.jpg?raw=true"/>
 
 ---
+
+[Project 8 :: Binary Classification using PySpark](https://github.com/rahulgupta271/rahulgupta271.github.io/blob/master/Binary%20Classification%20using%20PySpark/README.md)
+<img src="images/MLlib Classification.png?raw=true"/>
+
+---
+
+[Project 9 :: LA Bike Share - Operational Analytics & Demand Prediction](https://github.com/rahulgupta271/rahulgupta271.github.io/blob/master/BikeShare/README.md)
+<img src="images/bikeshare.jpg?raw=true"/>
+
+---
+
+[Project 10 :: Topic Modelling - Pipeline Implementation](https://github.com/rahulgupta271/rahulgupta271.github.io/blob/master/TopicModeling/README.md)
+<img src="images/topicmodelling.jpg?raw=true"/>
+
+---
