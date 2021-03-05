@@ -2,7 +2,7 @@
 
 ---
 
-### Bellevue University
+### This is my Personal Portal for Data Science Projects which was done under "MS is Data Science" from Bellevue University
 
 [Project 1 :: Retail - Market Analytics on Holiday Trend](https://github.com/rahulgupta271/DSC680_Project_1_Market_analytics_holiday_trend)
 <img src="images/HolidayTrend.jpg?raw=true"/>
