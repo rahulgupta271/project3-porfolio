@@ -1,0 +1,3 @@
+### Dataset
+
+Download the data set and place it in this directory. The zip file of data set is available on university site - https://content.bellevue.edu/cst/dsc/550/id/data.zip.  The JSONL data files for this project are in reddit directory. Place the "controversial-comments.jsonl" and "categorized-comments.jsonl" in this directory.

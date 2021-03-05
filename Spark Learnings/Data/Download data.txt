@@ -1,0 +1,3 @@
+### Dataset
+
+Download the data set and place it in the appropriate directory. The data set is available in the GitHub repository : https://github.com/bellevue-university/dsc650
