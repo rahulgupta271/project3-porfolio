@@ -21,17 +21,17 @@
 
 ---
 
-[Project 5 :: Manufacture - Enterprise Asset Maintenance](https://github.com/rahulgupta271/DSC680_Project_3_Enterprise_Asset_Maintenance)
-<img src="images/MachineMaintenance.jpeg?raw=true"/>
+[Project 5 :: Neural Network Image Classifier](https://github.com/rahulgupta271/rahulgupta271.github.io/blob/master/Neural%20Network%20Image%20Classifier/README.md)
+<img src="images/Neural_Network_Classifier.png?raw=true"/>
 
 ---
 
-[Project 6 :: Manufacture - Enterprise Asset Maintenance](https://github.com/rahulgupta271/DSC680_Project_3_Enterprise_Asset_Maintenance)
-<img src="images/MachineMaintenance.jpeg?raw=true"/>
+[Project 6 :: Exploring Spark](https://github.com/rahulgupta271/rahulgupta271.github.io/blob/master/Spark%20Learnings/README.md)
+<img src="images/apache-spark.png?raw=true"/>
 
 ---
 
-[Project 7 :: Manufacture - Enterprise Asset Maintenance](https://github.com/rahulgupta271/DSC680_Project_3_Enterprise_Asset_Maintenance)
-<img src="images/MachineMaintenance.jpeg?raw=true"/>
+[Project 7 :: Movie Recommendation Engine](https://github.com/rahulgupta271/rahulgupta271.github.io/blob/master/Movie%20Recommendation%20Engine/README.md)
+<img src="images/Recommendation-systems.jpg?raw=true"/>
 
 ---
