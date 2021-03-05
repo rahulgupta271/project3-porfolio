@@ -16,3 +16,22 @@
 <img src="images/MachineMaintenance.jpeg?raw=true"/>
 
 ---
+[Project 4 :: Model Evaluation - Cross Validation](https://github.com/rahulgupta271/rahulgupta271.github.io/blob/master/Model%20Evaluation%20-%20Cross%20Validation/README.md)
+<img src="images/Evaluating_Machine_Learning_Models.png?raw=true"/>
+
+---
+
+[Project 5 :: Manufacture - Enterprise Asset Maintenance](https://github.com/rahulgupta271/DSC680_Project_3_Enterprise_Asset_Maintenance)
+<img src="images/MachineMaintenance.jpeg?raw=true"/>
+
+---
+
+[Project 6 :: Manufacture - Enterprise Asset Maintenance](https://github.com/rahulgupta271/DSC680_Project_3_Enterprise_Asset_Maintenance)
+<img src="images/MachineMaintenance.jpeg?raw=true"/>
+
+---
+
+[Project 7 :: Manufacture - Enterprise Asset Maintenance](https://github.com/rahulgupta271/DSC680_Project_3_Enterprise_Asset_Maintenance)
+<img src="images/MachineMaintenance.jpeg?raw=true"/>
+
+---
