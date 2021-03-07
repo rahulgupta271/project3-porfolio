@@ -1,4 +1,4 @@
-## Data Anaytics Portfolio Projects
+## Data Anaytics Projects Portfolio
 
 ---
 
