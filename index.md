@@ -4,15 +4,15 @@
 
 ### This is my Personal Portal for Data Science Projects which was done under "MS is Data Science" from Bellevue University
 
-[Project 1 :: Retail - Market Analytics on Holiday Trend](https://github.com/rahulgupta271/DSC680_Project_1_Market_analytics_holiday_trend)
+[Project 1 :: Retail - Market Analytics on Holiday Trend](https://github.com/rahulgupta271/DSC680_Project_1_Market_analytics_holiday_trend/blob/main/README.md)
 <img src="images/HolidayTrend.jpg?raw=true"/>
 
 ---
-[Project 2 :: Financial - Analysis on Customer Retention](https://github.com/rahulgupta271/DSC680_Project_1_Market_analytics_holiday_trend)
+[Project 2 :: Financial - Analysis on Customer Retention](https://github.com/rahulgupta271/DSC680_Project_2_Financial_Analysis_Customer_data/blob/main/README.md)
 <img src="images/customer-retention-8.jpg?raw=true"/>
 
 ---
-[Project 3 :: Manufacture - Enterprise Asset Maintenance](https://github.com/rahulgupta271/DSC680_Project_3_Enterprise_Asset_Maintenance)
+[Project 3 :: Manufacture - Enterprise Asset Maintenance](https://github.com/rahulgupta271/DSC680_Project_3_Enterprise_Asset_Maintenance/blob/main/README.md)
 <img src="images/MachineMaintenance.jpeg?raw=true"/>
 
 ---
