@@ -13,10 +13,16 @@
 
 ---
 [Project 2 :: Financial - Analysis on Customer Retention](https://github.com/rahulgupta271/DSC680_Project_2_Financial_Analysis_Customer_data/blob/main/README.md)
+
+#### The business objective of this project is to analyze the success rate in customer retention through direct campaign marketing by a Portuguese Bank for which this data set pertains to
+
 <img src="images/customer-retention-8.jpg?raw=true"/>
 
 ---
 [Project 3 :: Manufacture - Enterprise Asset Maintenance](https://github.com/rahulgupta271/DSC680_Project_3_Enterprise_Asset_Maintenance/blob/main/README.md)
+
+#### For this Project, I am applying a predictive maintenance model, using an example case where the aim is to anticipate faults due to some system components. The analysis includes feature engineering, feature selection, labeling, training and evaluation of this predictive model. Predictive models are built with Python packages.
+
 <img src="images/MachineMaintenance.jpeg?raw=true"/>
 
 ---
